@@ -1,4 +1,3 @@
 # git-skills
-Creating a new branch & is quick.
-Creating a new branch  and is quick.
-dev modified
+git is  a new branch & is quick.
+git is  a new branch  and is quick.
